@@ -1,0 +1,2 @@
+webpackJsonp([5],{m5mX:function(e,t){},u1V5:function(e,t,c){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",{staticClass:"pc"},[t("router-view")],1)},staticRenderFns:[]};var r=c("VU/8")({computed:{device_type:function(){return this.$store.state.app.device_type}},created:function(){"pc"!=this.device_type&&this.$router.push("/")}},n,!1,function(e){c("m5mX")},"data-v-63580d1c",null);t.default=r.exports}});
+//# sourceMappingURL=5.583e338bc4bc02a5c59c.js.map
